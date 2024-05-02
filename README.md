@@ -1,2 +1,2 @@
 # VIT
-*Vision Transformer using Pytorch
+* Vision Transformer using Pytorch
